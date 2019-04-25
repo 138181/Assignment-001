@@ -1,0 +1,23 @@
+<style type="text/css">
+		body{
+    background: #3a6d84;
+    margin: 0px;
+    text-align: center;
+    color: #09ff13;
+}
+	    table{border-color: #673AB7;border-collapse: collapse;margin: auto;width: 80%;box-shadow: 1px 1px 15px #3F51B5;margin-top: 10px;width: 95;}
+		tr{
+}
+		th{
+    background: #a14eaf;
+    color: #25b5c7;
+    font-size: 18px;
+}
+		td{
+    background: #293680;
+    padding: 10px;
+    color: #29c529;
+    font-size: 18px;
+}
+
+	</style>
